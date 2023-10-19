@@ -12,7 +12,7 @@
     justify-content: space-evenly;
 }
 .logo{
-    background-image: url('/amazon/amazon_logo.png');
+    background-image: url('./amazon/amazon_logo.png');
     height: 40px;
     width: 100%;
     background-size: cover;
@@ -120,7 +120,7 @@ span{
 
 /* hero section */
 .hero-section{
-    background-image: url('/amazon/hero_image.jpg');
+    background-image: url('./amazon/hero_image.jpg');
     background-size: cover;
     height: 350px;
     display: flex;
@@ -212,7 +212,7 @@ ul a{
     justify-content: center;
 }
 .foot-panel3 .logo{
-    background-image: url('/amazon/amazon_logo.png');
+    background-image: url('./amazon/amazon_logo.png');
     background-size: cover;
     height: 50px;
     width: 100px;
